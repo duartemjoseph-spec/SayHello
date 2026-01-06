@@ -8,6 +8,4 @@
 
  // You can add multiple dates with description.
 
-// Person who Peer Reviewed your assignment Eli:
-
-word up
+// Person who Peer Reviewed your assignment Eli:Works beautifully code looks great dont know why the whole file is called say hello even though your adding 2 numbers 

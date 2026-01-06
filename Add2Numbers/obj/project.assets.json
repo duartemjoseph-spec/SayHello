@@ -3562,27 +3562,19 @@
     ]
   },
   "packageFolders": {
-    "C:\\Users\\littl\\.nuget\\packages\\": {}
+    "C:\\Users\\Eliasaf\\.nuget\\packages\\": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-<<<<<<< HEAD:myfirstapi/obj/project.assets.json
-      "projectUniqueName": "C:\\Users\\littl\\OneDrive\\Documents\\Academy\\CodeStack Level2\\Assignments Level2\\SayHello\\SayHello\\myfirstapi\\myfirstapi.csproj",
-      "projectName": "myfirstapi",
-      "projectPath": "C:\\Users\\littl\\OneDrive\\Documents\\Academy\\CodeStack Level2\\Assignments Level2\\SayHello\\SayHello\\myfirstapi\\myfirstapi.csproj",
-      "packagesPath": "C:\\Users\\littl\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\littl\\OneDrive\\Documents\\Academy\\CodeStack Level2\\Assignments Level2\\SayHello\\SayHello\\myfirstapi\\obj\\",
-=======
-      "projectUniqueName": "C:\\Users\\littl\\OneDrive\\Documents\\Academy\\CodeStack Level2\\Assignments Level2\\Add2Numbers\\Add2numbers\\Add2Numbers\\Add2Numbers.csproj",
+      "projectUniqueName": "C:\\Users\\Eliasaf\\OneDrive\\Academy\\Season 8 Level 2\\Week 1\\SayHello\\Add2Numbers\\Add2Numbers.csproj",
       "projectName": "Add2Numbers",
-      "projectPath": "C:\\Users\\littl\\OneDrive\\Documents\\Academy\\CodeStack Level2\\Assignments Level2\\Add2Numbers\\Add2numbers\\Add2Numbers\\Add2Numbers.csproj",
-      "packagesPath": "C:\\Users\\littl\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\littl\\OneDrive\\Documents\\Academy\\CodeStack Level2\\Assignments Level2\\Add2Numbers\\Add2numbers\\Add2Numbers\\obj\\",
->>>>>>> 46e2c09b181640bd92b5eb37ec1884f902091f7e:Add2Numbers/obj/project.assets.json
+      "projectPath": "C:\\Users\\Eliasaf\\OneDrive\\Academy\\Season 8 Level 2\\Week 1\\SayHello\\Add2Numbers\\Add2Numbers.csproj",
+      "packagesPath": "C:\\Users\\Eliasaf\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\Eliasaf\\OneDrive\\Academy\\Season 8 Level 2\\Week 1\\SayHello\\Add2Numbers\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
-        "C:\\Users\\littl\\AppData\\Roaming\\NuGet\\NuGet.Config"
+        "C:\\Users\\Eliasaf\\AppData\\Roaming\\NuGet\\NuGet.Config"
       ],
       "originalTargetFrameworks": [
         "net9.0"
@@ -3663,5 +3655,13 @@
         "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\9.0.305/PortableRuntimeIdentifierGraph.json"
       }
     }
-  }
+  },
+  "logs": [
+    {
+      "code": "Undefined",
+      "level": "Warning",
+      "warningLevel": 1,
+      "message": "Problem reading the cache file C:\\Users\\Eliasaf\\OneDrive\\Academy\\Season 8 Level 2\\Week 1\\SayHello\\Add2Numbers\\obj\\project.nuget.cache : '<' is an invalid start of a property name. Expected a '\"'. Path: $ | LineNumber: 2 | BytePositionInLine: 0."
+    }
+  ]
 }
