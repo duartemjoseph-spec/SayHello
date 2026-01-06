@@ -3567,11 +3567,19 @@
   "project": {
     "version": "1.0.0",
     "restore": {
+<<<<<<< HEAD:myfirstapi/obj/project.assets.json
       "projectUniqueName": "C:\\Users\\littl\\OneDrive\\Documents\\Academy\\CodeStack Level2\\Assignments Level2\\SayHello\\SayHello\\myfirstapi\\myfirstapi.csproj",
       "projectName": "myfirstapi",
       "projectPath": "C:\\Users\\littl\\OneDrive\\Documents\\Academy\\CodeStack Level2\\Assignments Level2\\SayHello\\SayHello\\myfirstapi\\myfirstapi.csproj",
       "packagesPath": "C:\\Users\\littl\\.nuget\\packages\\",
       "outputPath": "C:\\Users\\littl\\OneDrive\\Documents\\Academy\\CodeStack Level2\\Assignments Level2\\SayHello\\SayHello\\myfirstapi\\obj\\",
+=======
+      "projectUniqueName": "C:\\Users\\littl\\OneDrive\\Documents\\Academy\\CodeStack Level2\\Assignments Level2\\Add2Numbers\\Add2numbers\\Add2Numbers\\Add2Numbers.csproj",
+      "projectName": "Add2Numbers",
+      "projectPath": "C:\\Users\\littl\\OneDrive\\Documents\\Academy\\CodeStack Level2\\Assignments Level2\\Add2Numbers\\Add2numbers\\Add2Numbers\\Add2Numbers.csproj",
+      "packagesPath": "C:\\Users\\littl\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\littl\\OneDrive\\Documents\\Academy\\CodeStack Level2\\Assignments Level2\\Add2Numbers\\Add2numbers\\Add2Numbers\\obj\\",
+>>>>>>> 46e2c09b181640bd92b5eb37ec1884f902091f7e:Add2Numbers/obj/project.assets.json
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\littl\\AppData\\Roaming\\NuGet\\NuGet.Config"
