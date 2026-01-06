@@ -3567,11 +3567,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\littl\\Downloads\\SayHello\\SayHello\\myfirstapi\\myfirstapi.csproj",
+      "projectUniqueName": "C:\\Users\\littl\\OneDrive\\Documents\\Academy\\CodeStack Level2\\Assignments Level2\\SayHello\\SayHello\\myfirstapi\\myfirstapi.csproj",
       "projectName": "myfirstapi",
-      "projectPath": "C:\\Users\\littl\\Downloads\\SayHello\\SayHello\\myfirstapi\\myfirstapi.csproj",
+      "projectPath": "C:\\Users\\littl\\OneDrive\\Documents\\Academy\\CodeStack Level2\\Assignments Level2\\SayHello\\SayHello\\myfirstapi\\myfirstapi.csproj",
       "packagesPath": "C:\\Users\\littl\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\littl\\Downloads\\SayHello\\SayHello\\myfirstapi\\obj\\",
+      "outputPath": "C:\\Users\\littl\\OneDrive\\Documents\\Academy\\CodeStack Level2\\Assignments Level2\\SayHello\\SayHello\\myfirstapi\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\littl\\AppData\\Roaming\\NuGet\\NuGet.Config"
